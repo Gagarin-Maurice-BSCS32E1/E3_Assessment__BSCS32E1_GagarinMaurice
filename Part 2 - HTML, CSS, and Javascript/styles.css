@@ -1,0 +1,12 @@
+body {
+    background-color: lightblue;
+  }
+  h1, h2, h3 {
+    padding: 20px;
+  }
+  p {
+    font-size: 14px;
+  }
+  li {
+    list-style-type: disc;
+  }

@@ -1,0 +1,14 @@
+C:\Users\Maurice Gagarin\Desktop\Part 1 - C#\Area of Triangle\Area of Triangle\Area of Triangle\bin\Debug\net6.0\Area of Triangle.exe
+C:\Users\Maurice Gagarin\Desktop\Part 1 - C#\Area of Triangle\Area of Triangle\Area of Triangle\bin\Debug\net6.0\Area of Triangle.deps.json
+C:\Users\Maurice Gagarin\Desktop\Part 1 - C#\Area of Triangle\Area of Triangle\Area of Triangle\bin\Debug\net6.0\Area of Triangle.runtimeconfig.json
+C:\Users\Maurice Gagarin\Desktop\Part 1 - C#\Area of Triangle\Area of Triangle\Area of Triangle\bin\Debug\net6.0\Area of Triangle.dll
+C:\Users\Maurice Gagarin\Desktop\Part 1 - C#\Area of Triangle\Area of Triangle\Area of Triangle\bin\Debug\net6.0\Area of Triangle.pdb
+C:\Users\Maurice Gagarin\Desktop\Part 1 - C#\Area of Triangle\Area of Triangle\Area of Triangle\obj\Debug\net6.0\Area of Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maurice Gagarin\Desktop\Part 1 - C#\Area of Triangle\Area of Triangle\Area of Triangle\obj\Debug\net6.0\Area of Triangle.AssemblyInfoInputs.cache
+C:\Users\Maurice Gagarin\Desktop\Part 1 - C#\Area of Triangle\Area of Triangle\Area of Triangle\obj\Debug\net6.0\Area of Triangle.AssemblyInfo.cs
+C:\Users\Maurice Gagarin\Desktop\Part 1 - C#\Area of Triangle\Area of Triangle\Area of Triangle\obj\Debug\net6.0\Area of Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Maurice Gagarin\Desktop\Part 1 - C#\Area of Triangle\Area of Triangle\Area of Triangle\obj\Debug\net6.0\Area of Triangle.dll
+C:\Users\Maurice Gagarin\Desktop\Part 1 - C#\Area of Triangle\Area of Triangle\Area of Triangle\obj\Debug\net6.0\refint\Area of Triangle.dll
+C:\Users\Maurice Gagarin\Desktop\Part 1 - C#\Area of Triangle\Area of Triangle\Area of Triangle\obj\Debug\net6.0\Area of Triangle.pdb
+C:\Users\Maurice Gagarin\Desktop\Part 1 - C#\Area of Triangle\Area of Triangle\Area of Triangle\obj\Debug\net6.0\Area of Triangle.genruntimeconfig.cache
+C:\Users\Maurice Gagarin\Desktop\Part 1 - C#\Area of Triangle\Area of Triangle\Area of Triangle\obj\Debug\net6.0\ref\Area of Triangle.dll
